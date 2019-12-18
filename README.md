@@ -25,4 +25,4 @@ Administrator can add multiple templates based on requirement and set `Subject`,
 13.	Now navigate to Message template configuration, create new template with some valid name, given while retrieving  MessageTemplate object in step 6.
 14.	Select the Message template and create new tokens for the MessageTemplate, to get the dynamic values. Copy the token names and add them in the Subject or Message along with the string. Eg. `Subject: Need approval for policy no {%PolicyNo%}, sent from {%Agent%}`. 
 
-
+Mendix appstore link for the SimplePushNotifications module `https://appstore.home.mendix.com/link/app/112194/`
